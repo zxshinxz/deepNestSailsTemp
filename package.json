@@ -97,7 +97,7 @@
     "semver": "~2.2.1",
     "skipper": "~0.5.5",
     "uid-safe": "^1.0.1",
-    "waterline": "https://github.com/zxshinxz/deepNestWaterlineTemp.git"
+    "waterline": "git://github.com/zxshinxz/deepNestWaterlineTemp.git"
   },
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "devDependencies": {
